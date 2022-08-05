@@ -1,0 +1,17 @@
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\bin\Debug\net5.0\ProjetoAPIEstudo.Servico.deps.json
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\bin\Debug\net5.0\ProjetoAPIEstudo.Servico.dll
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\bin\Debug\net5.0\ProjetoAPIEstudo.Servico.pdb
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\bin\Debug\net5.0\ProjetoAPIEstudo.Data.dll
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\bin\Debug\net5.0\ProjetoAPIEstudo.Dominio.dll
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\bin\Debug\net5.0\ProjetoAPIEstudo.Data.pdb
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\bin\Debug\net5.0\ProjetoAPIEstudo.Dominio.pdb
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\ProjetoAPIEstudo.Servico.csproj.AssemblyReference.cache
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\ProjetoAPIEstudo.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\ProjetoAPIEstudo.Servico.AssemblyInfoInputs.cache
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\ProjetoAPIEstudo.Servico.AssemblyInfo.cs
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\ProjetoAPIEstudo.Servico.csproj.CoreCompileInputs.cache
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\ProjetoAPIEstudo.Servico.csproj.CopyComplete
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\ProjetoAPIEstudo.Servico.dll
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\refint\ProjetoAPIEstudo.Servico.dll
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\ProjetoAPIEstudo.Servico.pdb
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Servico\obj\Debug\net5.0\ref\ProjetoAPIEstudo.Servico.dll

@@ -1,0 +1,12 @@
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\bin\Debug\net5.0\ProjetoAPIEstudo.Dominio.deps.json
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\bin\Debug\net5.0\ProjetoAPIEstudo.Dominio.dll
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\bin\Debug\net5.0\ProjetoAPIEstudo.Dominio.pdb
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\obj\Debug\net5.0\ProjetoAPIEstudo.Dominio.csproj.AssemblyReference.cache
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\obj\Debug\net5.0\ProjetoAPIEstudo.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\obj\Debug\net5.0\ProjetoAPIEstudo.Dominio.AssemblyInfoInputs.cache
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\obj\Debug\net5.0\ProjetoAPIEstudo.Dominio.AssemblyInfo.cs
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\obj\Debug\net5.0\ProjetoAPIEstudo.Dominio.csproj.CoreCompileInputs.cache
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\obj\Debug\net5.0\ProjetoAPIEstudo.Dominio.dll
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\obj\Debug\net5.0\refint\ProjetoAPIEstudo.Dominio.dll
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\obj\Debug\net5.0\ProjetoAPIEstudo.Dominio.pdb
+C:\ProjetoAPIEstudo\ProjetoAPIEstudo\ProjetoAPIEstudo.Dominio\obj\Debug\net5.0\ref\ProjetoAPIEstudo.Dominio.dll
