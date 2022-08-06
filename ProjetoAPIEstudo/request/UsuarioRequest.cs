@@ -10,6 +10,6 @@
 
         public string Cpf { get; set; }
 
-        public Login Login { get; set; }
+        public LoginRequest LoginRequest { get; set; }
     }
 }
