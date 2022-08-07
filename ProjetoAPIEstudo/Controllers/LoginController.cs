@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ProjetoAPIEstudo.Dominio.Dominio;
+using ProjetoAPIEstudo.Servico.Servico.Interface;
 
 namespace ProjetoAPIEstudo.Controllers
 {
